@@ -1,0 +1,10 @@
+Probability theory
+Descriptive statistics
+Inferential statistics
+Hypothesis testing
+Linear regression
+Bayesian statistics
+Time series analysis
+Multivariate analysis
+Nonparametric statistics
+Statistical software usage (such as R or SAS)
